@@ -8,12 +8,8 @@ GPU-accelerated cloth simulation using the *Fast Mass-Spring* method (Liu et al.
 
 ## Setup
 
-```bash
-conda create -n cpsc426 -c conda-forge --override-channels \
-    python=3.14.2 numpy pip openusd -y
-conda activate cpsc426
 pip install warp-lang trimesh
-```
+
 
 ## Running
 
