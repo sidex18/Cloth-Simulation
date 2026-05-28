@@ -1,18 +1,10 @@
-**Name:** [Your Name] | **Student #:** [Your Student Number] | **CWL:** [Your CWL Username]
 
-**Collaborators:** [Names of people you discussed with, or N/A]
-**Resources:** [Websites or references you used, or N/A]
-**AI tools:** [AI tools you used, or N/A]
-
-**Notes to marker:** [Any additional information, or N/A]
-
----
 
 # CPSC 426 Assignment 4: Cloth Simulation
 
 GPU-accelerated cloth simulation using the *Fast Mass-Spring* method (Liu et al. 2013), built with [NVIDIA Warp](https://github.com/NVIDIA/warp).
 
-For the full assignment specification, tasks, and grading breakdown, see [`A4_spec.pdf`](A4_spec.pdf).
+
 
 ## Setup
 
